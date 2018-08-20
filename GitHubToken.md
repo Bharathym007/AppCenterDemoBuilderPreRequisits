@@ -14,7 +14,7 @@
 
 ## 4. Provide a description and select **repo** and **delete_repo**  scopes, click on Generate token:
 
-![image](GitHub/L4.png)
+![image](GitHub/L8.png)
 
 ## 5. **Copy** the generated Personal Acces Token:
 
