@@ -18,4 +18,4 @@
 
 ## 5. **Copy** the generated Personal Acces Token:
 
-![image](GitHub/L5.PNG)
+![image](GitHub/L7.png)
