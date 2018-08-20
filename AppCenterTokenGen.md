@@ -11,12 +11,12 @@
 
 ## 3. Click in **API Tokens** and then select **New API Token**:
 
-![image](AppCenterToken/L4.png)
+![image](AppCenterToken/L3.png)
 
 ## 4. Provide a **Description** for Token and select **Full Access** under Access and click on **Add New API Token**:
 
-![image](AppCenterToken/L5.png)
+![image](AppCenterToken/L4.png)
 
 ## 5. **Copy** Generated API Token
 
-![image](AppCenterToken/L6.png)
+![image](AppCenterToken/L5.png)
