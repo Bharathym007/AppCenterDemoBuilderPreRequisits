@@ -2,7 +2,7 @@
 
 ## 1. Go to [GitHub marketplace](https://github.com/marketplace/) and find [AppCenter](https://github.com/marketplace/app-center) app:
 
-![image](GitHubExtension/L1.PNG)
+![image](GitHubExtension/L1.png)
 
 ## 2. Select **Free** plan under Pricing and setup, click on **install it for free**:
 
