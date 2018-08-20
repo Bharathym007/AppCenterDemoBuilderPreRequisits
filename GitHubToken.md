@@ -1,0 +1,21 @@
+# Generate Personal Access Token (PAT) for GitHub
+
+## 1. Login to [GitHub](https://github.com), click on profile icon and then select settings:
+
+![image](GitHub/L1.PNG)
+
+## 2.Click on **Developer settings**:
+
+![image](GitHub/L2.PNG)
+
+## 3.Click on Personal Access Tokens and select **Generate New Token**:
+
+![image](GitHub/L3.PNG)
+
+## 4. Provide a description and select **repo** and **delete_repo**  scopes, click on Generate token:
+
+![image](GitHub/L4.PNG)
+
+## 5. **Copy** the generated Personal Acces Token:
+
+![image](GitHub/L7.PNG)
