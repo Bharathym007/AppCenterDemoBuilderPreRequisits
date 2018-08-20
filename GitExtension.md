@@ -10,7 +10,7 @@
 
 ## 3. Under Review your order section, click on **Complete Order and begin installation**:
 
-![image](GitHubExtension/L3.png)
+![image](GitHubExtension/l3.png)
 
 ## 4. Select **All repositories** and click on **install**:
 
