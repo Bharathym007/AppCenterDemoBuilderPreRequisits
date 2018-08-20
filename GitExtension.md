@@ -2,21 +2,21 @@
 
 ## 1. Go to [GitHub marketplace](https://github.com/marketplace/) and find [AppCenter](https://github.com/marketplace/app-center) app:
 
-![image](GitHubExtension/L1.PNG)
+![image](GitHubExtension/L1.png)
 
 ## 2. Select **Free** plan under Pricing and setup, click on **install it for free**:
 
-![image](GitHubExtension/L2.PNG)
+![image](GitHubExtension/L2.png)
 
 ## 3. Under Review your order section, click on **Complete Order and begin installation**:
 
-![image](GitHubExtension/L3.PNG)
+![image](GitHubExtension/L3.png)
 
 ## 4. Select **All repositories** and click on **install**:
 
-![image](GitHubExtension/L4.PNG)
+![image](GitHubExtension/L4.png)
 
 ## 5. Click on **Authorize App Center by Visual Studio App Center**:
 
-![image](GitHubExtension/L5.PNG)
+![image](GitHubExtension/L5.png)
 
