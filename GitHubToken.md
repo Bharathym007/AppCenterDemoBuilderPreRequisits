@@ -12,7 +12,7 @@
 
 ![image](GitHub/L3.png)
 
-## 4. Provide a description and select **repo** and **delete_repo**  scopes, click on Generate token:
+## 4. Provide a description and select **repo** scope, click on Generate token:
 
 ![image](GitHub/L8.png)
 
