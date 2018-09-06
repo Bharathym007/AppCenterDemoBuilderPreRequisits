@@ -14,7 +14,7 @@
 
 ## 4. Provide a description and select **repo** scope, click on Generate token:
 
-![image](GitHub/L8.png)
+![image](GitHub/ScopeUpdated.png)
 
 ## 5. **Copy** the generated Personal Acces Token:
 
